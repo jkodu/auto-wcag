@@ -1,3 +1,5 @@
 _site
 .idea
 *.iml
+
+_draft-testcase-embeds/*.*
